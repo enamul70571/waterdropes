@@ -8,7 +8,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #edeeed;
+  background: red;
 }
 .drops {
   position: relative;
@@ -22,7 +22,7 @@ body {
   height: 150px;
   background: transparent;
   border-radius: 57% 43% 37% 63% / 43% 52% 48% 57%;
-  background: #edeeed;
+  background: red;
   box-shadow: 22px 22px 36px #676677, -22px -22px 36px #e5e4ff;
 }
 .drop::before {
